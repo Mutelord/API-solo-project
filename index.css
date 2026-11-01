@@ -80,4 +80,9 @@ footer {
     grid-template-rows: 1fr;
     grid-template-columns: repeat(5, 1fr);
     gap: 0;
+    background-color: white;
+    text-align: center;    
+}
+.color-item {
+    cursor: pointer;
 }
